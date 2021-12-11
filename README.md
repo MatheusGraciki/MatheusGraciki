@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**MatheusGraciki/MatheusGraciki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Matheus Graciki
+  
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGraciki&show_icons=false&theme=radical">
+   
+</div>
+     ⚪Estudando NodeJs
+
+<div style="display:inline_block"><br>
+  <img align="center" alt="Mat-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Mat-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+ <div>
+
