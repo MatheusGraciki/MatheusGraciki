@@ -7,13 +7,10 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGraciki&show_icons=false&theme=radical">
-   
-</div>
-<div>
-
-    ⚪Estudando ReactNative e NodeJs
-  
  </div>
+   
+⚪Estudando ReactNative e NodeJs
+
 
 <div style="display:inline_block"><br>
   <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
