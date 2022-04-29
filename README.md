@@ -9,7 +9,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGraciki&show_icons=false&theme=radical">
  </div>
    
-⚪Estudando ReactNative e NodeJs
+⚪Estudando ReactNative 
 
 
 <div style="display:inline_block"><br>
