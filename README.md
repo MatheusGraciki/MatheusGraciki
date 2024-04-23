@@ -28,7 +28,7 @@
 
 Olá! 👋
 
-Eu sou Matheus, dev full-stack, criativo e 🎓formado no curso técnico em desenvolvimento de sistemas, atualmente cursando análise e desenvolvimento de sistemas na Uninter. Apaixonado por mudar a vida das pessoas por meio da programação, Tenho interesse em me especializar no backend ou como dev fullstack.
+Eu sou Matheus, estou estudando para me tornar um excelente desenvolvedor, tenho formação no curso técnico em desenvolvimento de sistemas, atualmente cursando análise e desenvolvimento de sistemas na Uninter. Sou Apaixonado por mudar a vida das pessoas por meio da programação, Tenho interesse em me especializar no backend ou como dev fullstack.
 
 ## 🛠 &nbsp;Tech Stack
 
