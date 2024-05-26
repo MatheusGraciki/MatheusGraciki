@@ -48,7 +48,7 @@ Eu sou Matheus, estou estudando para me tornar um excelente desenvolvedor, tenho
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
 
-![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
 ## 📊 &nbsp;Stats
